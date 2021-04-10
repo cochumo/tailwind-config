@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-config",
+  "name": "@cochumo/tailwind-config",
   "version": "1.0.0",
   "description": "Modularization of tailwind.config for your own ease of use",
   "repository": "https://github.com/cochumo/tailwind-config",

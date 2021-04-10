@@ -2,6 +2,7 @@
   "name": "tailwind-config",
   "version": "1.0.0",
   "description": "Modularization of tailwind.config for your own ease of use",
+  "repository": "https://github.com/cochumo/tailwind-config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

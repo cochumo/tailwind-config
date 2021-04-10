@@ -11,5 +11,8 @@
     "tailwind"
   ],
   "author": "cochumo",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
